@@ -5,7 +5,7 @@ import ClientOnly from 'vue-client-only'
 import NoSsr from 'vue-no-ssr'
 import { createRouter } from './router.js'
 import NuxtChild from './components/nuxt-child.js'
-import NuxtError from '../layouts/error.vue'
+import NuxtError from '..\\layouts\\error.vue'
 import Nuxt from './components/nuxt.js'
 import App from './App.js'
 import { setContext, getLocation, getRouteData, normalizeError } from './utils'
@@ -13,18 +13,18 @@ import { createStore } from './store.js'
 
 /* Plugins */
 
-import nuxt_plugin_plugin_56a6a660 from 'nuxt_plugin_plugin_56a6a660' // Source: ./vuetify/plugin.js (mode: 'all')
-import nuxt_plugin_pluginrouting_4e8135e2 from 'nuxt_plugin_pluginrouting_4e8135e2' // Source: ./nuxt-i18n/plugin.routing.js (mode: 'all')
-import nuxt_plugin_pluginmain_22875e66 from 'nuxt_plugin_pluginmain_22875e66' // Source: ./nuxt-i18n/plugin.main.js (mode: 'all')
-import nuxt_plugin_axios_d1223f38 from 'nuxt_plugin_axios_d1223f38' // Source: ./axios.js (mode: 'all')
-import nuxt_plugin_cookieuniversalnuxt_d5f98fe8 from 'nuxt_plugin_cookieuniversalnuxt_d5f98fe8' // Source: ./cookie-universal-nuxt.js (mode: 'all')
-import nuxt_plugin_vueliate_e7794d9e from 'nuxt_plugin_vueliate_e7794d9e' // Source: ../plugins/vueliate.js (mode: 'client')
-import nuxt_plugin_swiperplugin_afcc4376 from 'nuxt_plugin_swiperplugin_afcc4376' // Source: ../plugins/swiper-plugin.js (mode: 'client')
-import nuxt_plugin_vuenotification_435fd7af from 'nuxt_plugin_vuenotification_435fd7af' // Source: ../plugins/vue-notification.js (mode: 'client')
-import nuxt_plugin_axios_5659d192 from 'nuxt_plugin_axios_5659d192' // Source: ../plugins/axios.js (mode: 'client')
-import nuxt_plugin_lazyLoad_5abf3c07 from 'nuxt_plugin_lazyLoad_5abf3c07' // Source: ../plugins/lazyLoad.js (mode: 'client')
-import nuxt_plugin_firebase_34d6f55a from 'nuxt_plugin_firebase_34d6f55a' // Source: ../plugins/firebase.js (mode: 'client')
-import nuxt_plugin_quill_97f48370 from 'nuxt_plugin_quill_97f48370' // Source: ../plugins/quill.js (mode: 'client')
+import nuxt_plugin_plugin_5596d22d from 'nuxt_plugin_plugin_5596d22d' // Source: .\\vuetify\\plugin.js (mode: 'all')
+import nuxt_plugin_pluginrouting_466653a2 from 'nuxt_plugin_pluginrouting_466653a2' // Source: .\\nuxt-i18n\\plugin.routing.js (mode: 'all')
+import nuxt_plugin_pluginmain_3d4748c0 from 'nuxt_plugin_pluginmain_3d4748c0' // Source: .\\nuxt-i18n\\plugin.main.js (mode: 'all')
+import nuxt_plugin_axios_7c7e6c6c from 'nuxt_plugin_axios_7c7e6c6c' // Source: .\\axios.js (mode: 'all')
+import nuxt_plugin_cookieuniversalnuxt_87dcd51c from 'nuxt_plugin_cookieuniversalnuxt_87dcd51c' // Source: .\\cookie-universal-nuxt.js (mode: 'all')
+import nuxt_plugin_vueliate_e7794d9e from 'nuxt_plugin_vueliate_e7794d9e' // Source: ..\\plugins\\vueliate.js (mode: 'client')
+import nuxt_plugin_swiperplugin_afcc4376 from 'nuxt_plugin_swiperplugin_afcc4376' // Source: ..\\plugins\\swiper-plugin.js (mode: 'client')
+import nuxt_plugin_vuenotification_435fd7af from 'nuxt_plugin_vuenotification_435fd7af' // Source: ..\\plugins\\vue-notification.js (mode: 'client')
+import nuxt_plugin_axios_5659d192 from 'nuxt_plugin_axios_5659d192' // Source: ..\\plugins\\axios.js (mode: 'client')
+import nuxt_plugin_lazyLoad_5abf3c07 from 'nuxt_plugin_lazyLoad_5abf3c07' // Source: ..\\plugins\\lazyLoad.js (mode: 'client')
+import nuxt_plugin_firebase_34d6f55a from 'nuxt_plugin_firebase_34d6f55a' // Source: ..\\plugins\\firebase.js (mode: 'client')
+import nuxt_plugin_quill_97f48370 from 'nuxt_plugin_quill_97f48370' // Source: ..\\plugins\\quill.js (mode: 'client')
 
 // Component: <ClientOnly>
 Vue.component(ClientOnly.name, ClientOnly)
@@ -63,18 +63,14 @@ Vue.use(Meta, {"keyName":"head","attribute":"data-n-head","ssrAttribute":"data-n
 const defaultTransition = {"name":"page","mode":"out-in","appear":false,"appearClass":"appear","appearActiveClass":"appear-active","appearToClass":"appear-to"}
 
 const originalRegisterModule = Vuex.Store.prototype.registerModule
+const baseStoreOptions = { preserveState: process.client }
 
 function registerModule (path, rawModule, options = {}) {
-  const preserveState = process.client && (
-    Array.isArray(path)
-      ? !!path.reduce((namespacedState, path) => namespacedState && namespacedState[path], this.state)
-      : path in this.state
-  )
-  return originalRegisterModule.call(this, path, rawModule, { preserveState, ...options })
+  return originalRegisterModule.call(this, path, rawModule, { ...baseStoreOptions, ...options })
 }
 
 async function createApp(ssrContext, config = {}) {
-  const router = await createRouter(ssrContext, config)
+  const router = await createRouter(ssrContext)
 
   const store = createStore(ssrContext)
   // Add this.$router into store actions/mutations
@@ -217,24 +213,24 @@ async function createApp(ssrContext, config = {}) {
   }
   // Plugin execution
 
-  if (typeof nuxt_plugin_plugin_56a6a660 === 'function') {
-    await nuxt_plugin_plugin_56a6a660(app.context, inject)
+  if (typeof nuxt_plugin_plugin_5596d22d === 'function') {
+    await nuxt_plugin_plugin_5596d22d(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_pluginrouting_4e8135e2 === 'function') {
-    await nuxt_plugin_pluginrouting_4e8135e2(app.context, inject)
+  if (typeof nuxt_plugin_pluginrouting_466653a2 === 'function') {
+    await nuxt_plugin_pluginrouting_466653a2(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_pluginmain_22875e66 === 'function') {
-    await nuxt_plugin_pluginmain_22875e66(app.context, inject)
+  if (typeof nuxt_plugin_pluginmain_3d4748c0 === 'function') {
+    await nuxt_plugin_pluginmain_3d4748c0(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_axios_d1223f38 === 'function') {
-    await nuxt_plugin_axios_d1223f38(app.context, inject)
+  if (typeof nuxt_plugin_axios_7c7e6c6c === 'function') {
+    await nuxt_plugin_axios_7c7e6c6c(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_cookieuniversalnuxt_d5f98fe8 === 'function') {
-    await nuxt_plugin_cookieuniversalnuxt_d5f98fe8(app.context, inject)
+  if (typeof nuxt_plugin_cookieuniversalnuxt_87dcd51c === 'function') {
+    await nuxt_plugin_cookieuniversalnuxt_87dcd51c(app.context, inject)
   }
 
   if (process.client && typeof nuxt_plugin_vueliate_e7794d9e === 'function') {

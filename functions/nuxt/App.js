@@ -1,33 +1,32 @@
 import Vue from 'vue'
-import { decode, parsePath, withoutBase, withoutTrailingSlash, normalizeURL } from 'ufo'
 
 import { getMatchedComponentsInstances, getChildrenComponentInstancesUsingFetch, promisify, globalHandleError, urlJoin, sanitizeComponent } from './utils'
-import NuxtError from '../layouts/error.vue'
+import NuxtError from '..\\layouts\\error.vue'
 import NuxtLoading from './components/nuxt-loading.vue'
 
-import '../node_modules/swiper/dist/css/swiper.css'
+import '..\\node_modules\\swiper\\dist\\css\\swiper.css'
 
-import '../static/fonts/Linearicons/Font/demo-files/demo.css'
+import '..\\static\\fonts\\Linearicons\\Font\\demo-files\\demo.css'
 
-import '../static/fonts/font-awesome/css/font-awesome.css'
+import '..\\static\\fonts\\font-awesome\\css\\font-awesome.css'
 
-import '../static/css/bootstrap.min.css'
+import '..\\static\\css\\bootstrap.min.css'
 
-import '../assets/scss/style.scss'
+import '..\\assets\\scss\\style.scss'
 
-import '../node_modules/quill/dist/quill.core.css'
+import '..\\node_modules\\quill\\dist\\quill.core.css'
 
-import '../node_modules/quill/dist/quill.snow.css'
+import '..\\node_modules\\quill\\dist\\quill.snow.css'
 
-import '../node_modules/quill/dist/quill.bubble.css'
+import '..\\node_modules\\quill\\dist\\quill.bubble.css'
 
-import _6f6c098b from '../layouts/default.vue'
-import _2b425014 from '../layouts/layout-default.vue'
-import _56c19727 from '../layouts/layout-market-place-1.vue'
-import _56c19728 from '../layouts/layout-market-place-2.vue'
-import _56c19729 from '../layouts/layout-market-place-3.vue'
-import _56c1972a from '../layouts/layout-market-place-4.vue'
-import _8687727c from '../layouts/layout-product.vue'
+import _6f6c098b from '..\\layouts\\default.vue'
+import _2b425014 from '..\\layouts\\layout-default.vue'
+import _56c19727 from '..\\layouts\\layout-market-place-1.vue'
+import _56c19728 from '..\\layouts\\layout-market-place-2.vue'
+import _56c19729 from '..\\layouts\\layout-market-place-3.vue'
+import _56c1972a from '..\\layouts\\layout-market-place-4.vue'
+import _8687727c from '..\\layouts\\layout-product.vue'
 
 const layouts = { "_default": sanitizeComponent(_6f6c098b),"_layout-default": sanitizeComponent(_2b425014),"_layout-market-place-1": sanitizeComponent(_56c19727),"_layout-market-place-2": sanitizeComponent(_56c19728),"_layout-market-place-3": sanitizeComponent(_56c19729),"_layout-market-place-4": sanitizeComponent(_56c1972a),"_layout-product": sanitizeComponent(_8687727c) }
 

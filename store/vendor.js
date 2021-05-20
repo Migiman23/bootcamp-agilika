@@ -197,7 +197,6 @@ export const actions = {
         vend = state.vendor;
         vend.date = new Date();
         vend.responsable = userCookies.userUid;
-        vend.company = vend.company.toUpperCase();
         let imagenDB = vend.image;
         delete vend.image; // Se elimina la propiedad imagen del objeto
         delete vend.id;
@@ -244,7 +243,6 @@ export const actions = {
     updateVendor({ commit, state }) {
         let vend = state.vendor;
         let imagenDB = vend.image;
-        vend.company = vend.company.toUpperCase();
         delete vend.image; // Se elimina la propiedad imagen del objeto
         db.collection('vendors')
             .doc(state.vendor.id)

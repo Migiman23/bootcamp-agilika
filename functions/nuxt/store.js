@@ -8,28 +8,28 @@ const VUEX_PROPERTIES = ['state', 'getters', 'actions', 'mutations']
 let store = {};
 
 (function updateModules () {
-  store = normalizeRoot(require('../store/index.js'), 'store/index.js')
+  store = normalizeRoot(require('..\\store\\index.js'), 'store/index.js')
 
   // If store is an exported method = classic mode (deprecated)
 
   // Enforce store modules
   store.modules = store.modules || {}
 
-  resolveStoreModules(require('../store/addProduct.js'), 'addProduct.js')
-  resolveStoreModules(require('../store/auth.js'), 'auth.js')
-  resolveStoreModules(require('../store/blog.js'), 'blog.js')
-  resolveStoreModules(require('../store/cart.js'), 'cart.js')
-  resolveStoreModules(require('../store/cartDb.js'), 'cartDb.js')
-  resolveStoreModules(require('../store/collection.js'), 'collection.js')
-  resolveStoreModules(require('../store/compare.js'), 'compare.js')
-  resolveStoreModules(require('../store/app.js'), 'app.js')
-  resolveStoreModules(require('../store/order.js'), 'order.js')
-  resolveStoreModules(require('../store/product.js'), 'product.js')
-  resolveStoreModules(require('../store/productCrud.js'), 'productCrud.js')
-  resolveStoreModules(require('../store/search.js'), 'search.js')
-  resolveStoreModules(require('../store/shop.js'), 'shop.js')
-  resolveStoreModules(require('../store/vendor.js'), 'vendor.js')
-  resolveStoreModules(require('../store/wishlist.js'), 'wishlist.js')
+  resolveStoreModules(require('..\\store\\addProduct.js'), 'addProduct.js')
+  resolveStoreModules(require('..\\store\\app.js'), 'app.js')
+  resolveStoreModules(require('..\\store\\auth.js'), 'auth.js')
+  resolveStoreModules(require('..\\store\\blog.js'), 'blog.js')
+  resolveStoreModules(require('..\\store\\cart.js'), 'cart.js')
+  resolveStoreModules(require('..\\store\\cartDb.js'), 'cartDb.js')
+  resolveStoreModules(require('..\\store\\collection.js'), 'collection.js')
+  resolveStoreModules(require('..\\store\\compare.js'), 'compare.js')
+  resolveStoreModules(require('..\\store\\order.js'), 'order.js')
+  resolveStoreModules(require('..\\store\\product.js'), 'product.js')
+  resolveStoreModules(require('..\\store\\productCrud.js'), 'productCrud.js')
+  resolveStoreModules(require('..\\store\\search.js'), 'search.js')
+  resolveStoreModules(require('..\\store\\shop.js'), 'shop.js')
+  resolveStoreModules(require('..\\store\\vendor.js'), 'vendor.js')
+  resolveStoreModules(require('..\\store\\wishlist.js'), 'wishlist.js')
 
   // If the environment supports hot reloading...
 })()

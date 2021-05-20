@@ -7,8 +7,10 @@ const nuxtConfig = require('./nuxt.config.js')
 const config = {
   ...nuxtConfig,
   dev: false,
-  debug: true,
   buildDir: 'nuxt',
+  build: {
+    publicPath:'/'
+  }
 }
 const nuxt = new Nuxt(config)
 

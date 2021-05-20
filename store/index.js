@@ -36,7 +36,7 @@ export const actions = {
         }
         if (auth) {
             // Inicializar carro
-            dispatch('cartDb/getCart', auth.userUid)
+            if(auth.userUid)dispatch('cartDb/getCart', auth.userUid)
 
             commit('auth/setIsLoggedIn', Boolean(auth.isLoggedIn));
             commit('auth/setCredentials', auth)

@@ -28,11 +28,7 @@ export async function loadLanguageAsync (context, locale) {
         }
         if (!messages) {
           try {
-            const langFileModule = await import(
-              /* webpackChunkName: "lang-[request]" */
-              /* webpackInclude: /\.(js|ts|json)$/ */
-              `~/lang/locales/${file}`
-            )
+            const langFileModule = await import(/* webpackChunkName: "lang-[request]" */ `~/lang/locales/${file}`)
             const getter = langFileModule.default || langFileModule
             messages = typeof getter === 'function' ? await Promise.resolve(getter(context, locale)) : getter
           } catch (error) {

@@ -88,6 +88,8 @@ module.exports = {
         host: 'localhost'
     },
     build: {
+        publicPath: '/',
+        vendor: ['isomorphic-fetch'],
         extend(config, ctx) {
             config.module.rules.push({
                 test: /\.(ogg|mp3|wav|mpe?g)$/i,

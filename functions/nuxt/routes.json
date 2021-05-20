@@ -2,1107 +2,949 @@
   {
     "name": "blog___en",
     "path": "/blog",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/blog/index.vue",
-    "chunkName": "pages/blog/index",
-    "_name": "_4eb454ad"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\blog\\\\index.vue",
+    "chunkName": "pages/blog/index"
   },
   {
     "name": "index___fr",
     "path": "/fr",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_508bbbfa"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
   },
   {
     "name": "search___en",
     "path": "/search",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/search/index.vue",
-    "chunkName": "pages/search/index",
-    "_name": "_f94a419a"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\search\\\\index.vue",
+    "chunkName": "pages/search/index"
   },
   {
     "name": "shop___en",
     "path": "/shop",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/shop/index.vue",
-    "chunkName": "pages/shop/index",
-    "_name": "_5f2631fe"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\shop\\\\index.vue",
+    "chunkName": "pages/shop/index"
   },
   {
     "name": "account-addresses___en",
     "path": "/account/addresses",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/account/addresses.vue",
-    "chunkName": "pages/account/addresses",
-    "_name": "_5435eb30"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\account\\\\addresses.vue",
+    "chunkName": "pages/account/addresses"
   },
   {
     "name": "account-checkout___en",
     "path": "/account/checkout",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/account/checkout.vue",
-    "chunkName": "pages/account/checkout",
-    "_name": "_352a11f0"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\account\\\\checkout.vue",
+    "chunkName": "pages/account/checkout"
   },
   {
     "name": "account-compare___en",
     "path": "/account/compare",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/account/compare.vue",
-    "chunkName": "pages/account/compare",
-    "_name": "_0f8ce5ab"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\account\\\\compare.vue",
+    "chunkName": "pages/account/compare"
   },
   {
     "name": "account-edit-address___en",
     "path": "/account/edit-address",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/account/edit-address.vue",
-    "chunkName": "pages/account/edit-address",
-    "_name": "_4bcd7d4a"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\account\\\\edit-address.vue",
+    "chunkName": "pages/account/edit-address"
   },
   {
     "name": "account-invoice-detail___en",
     "path": "/account/invoice-detail",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/account/invoice-detail.vue",
-    "chunkName": "pages/account/invoice-detail",
-    "_name": "_3416249b"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\account\\\\invoice-detail.vue",
+    "chunkName": "pages/account/invoice-detail"
   },
   {
     "name": "account-invoices___en",
     "path": "/account/invoices",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/account/invoices.vue",
-    "chunkName": "pages/account/invoices",
-    "_name": "_b245d0e0"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\account\\\\invoices.vue",
+    "chunkName": "pages/account/invoices"
   },
   {
     "name": "account-login___en",
     "path": "/account/login",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/account/login.vue",
-    "chunkName": "pages/account/login",
-    "_name": "_35b1eca2"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\account\\\\login.vue",
+    "chunkName": "pages/account/login"
   },
   {
     "name": "account-my-orders___en",
     "path": "/account/my-orders",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/account/my-orders.vue",
-    "chunkName": "pages/account/my-orders",
-    "_name": "_6e7cf2ec"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\account\\\\my-orders.vue",
+    "chunkName": "pages/account/my-orders"
   },
   {
     "name": "account-notifications___en",
     "path": "/account/notifications",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/account/notifications.vue",
-    "chunkName": "pages/account/notifications",
-    "_name": "_227a6ca4"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\account\\\\notifications.vue",
+    "chunkName": "pages/account/notifications"
   },
   {
     "name": "account-payment___en",
     "path": "/account/payment",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/account/payment.vue",
-    "chunkName": "pages/account/payment",
-    "_name": "_675f3b68"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\account\\\\payment.vue",
+    "chunkName": "pages/account/payment"
   },
   {
     "name": "account-recent-viewed-product___en",
     "path": "/account/recent-viewed-product",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/account/recent-viewed-product.vue",
-    "chunkName": "pages/account/recent-viewed-product",
-    "_name": "_d2b15ac4"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\account\\\\recent-viewed-product.vue",
+    "chunkName": "pages/account/recent-viewed-product"
   },
   {
     "name": "account-register___en",
     "path": "/account/register",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/account/register.vue",
-    "chunkName": "pages/account/register",
-    "_name": "_7830fccd"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\account\\\\register.vue",
+    "chunkName": "pages/account/register"
   },
   {
     "name": "account-shipping___en",
     "path": "/account/shipping",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/account/shipping.vue",
-    "chunkName": "pages/account/shipping",
-    "_name": "_7389a350"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\account\\\\shipping.vue",
+    "chunkName": "pages/account/shipping"
   },
   {
     "name": "account-shopping-cart___en",
     "path": "/account/shopping-cart",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/account/shopping-cart.vue",
-    "chunkName": "pages/account/shopping-cart",
-    "_name": "_70dd0aaa"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\account\\\\shopping-cart.vue",
+    "chunkName": "pages/account/shopping-cart"
   },
   {
     "name": "account-user-information___en",
     "path": "/account/user-information",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/account/user-information.vue",
-    "chunkName": "pages/account/user-information",
-    "_name": "_10d59ad4"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\account\\\\user-information.vue",
+    "chunkName": "pages/account/user-information"
   },
   {
     "name": "account-wishlist___en",
     "path": "/account/wishlist",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/account/wishlist.vue",
-    "chunkName": "pages/account/wishlist",
-    "_name": "_6747ba22"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\account\\\\wishlist.vue",
+    "chunkName": "pages/account/wishlist"
   },
   {
     "name": "blog-blog-left-sidebar___en",
     "path": "/blog/blog-left-sidebar",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/blog/blog-left-sidebar.vue",
-    "chunkName": "pages/blog/blog-left-sidebar",
-    "_name": "_4cbf43bc"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\blog\\\\blog-left-sidebar.vue",
+    "chunkName": "pages/blog/blog-left-sidebar"
   },
   {
     "name": "blog-blog-list___en",
     "path": "/blog/blog-list",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/blog/blog-list.vue",
-    "chunkName": "pages/blog/blog-list",
-    "_name": "_3daa06c4"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\blog\\\\blog-list.vue",
+    "chunkName": "pages/blog/blog-list"
   },
   {
     "name": "blog-blog-right-sidebar___en",
     "path": "/blog/blog-right-sidebar",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/blog/blog-right-sidebar.vue",
-    "chunkName": "pages/blog/blog-right-sidebar",
-    "_name": "_4c37d216"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\blog\\\\blog-right-sidebar.vue",
+    "chunkName": "pages/blog/blog-right-sidebar"
   },
   {
     "name": "blog-blog-small-thumbnail___en",
     "path": "/blog/blog-small-thumbnail",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/blog/blog-small-thumbnail.vue",
-    "chunkName": "pages/blog/blog-small-thumbnail",
-    "_name": "_381033f0"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\blog\\\\blog-small-thumbnail.vue",
+    "chunkName": "pages/blog/blog-small-thumbnail"
   },
   {
     "name": "blog___fr",
     "path": "/fr/blog",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/blog/index.vue",
-    "chunkName": "pages/blog/index",
-    "_name": "_4eb454ad"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\blog\\\\index.vue",
+    "chunkName": "pages/blog/index"
   },
   {
     "name": "search___fr",
     "path": "/fr/search",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/search/index.vue",
-    "chunkName": "pages/search/index",
-    "_name": "_f94a419a"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\search\\\\index.vue",
+    "chunkName": "pages/search/index"
   },
   {
     "name": "shop___fr",
     "path": "/fr/shop",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/shop/index.vue",
-    "chunkName": "pages/shop/index",
-    "_name": "_5f2631fe"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\shop\\\\index.vue",
+    "chunkName": "pages/shop/index"
   },
   {
     "name": "home-auto-part___en",
     "path": "/home/auto-part",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/home/auto-part.vue",
-    "chunkName": "pages/home/auto-part",
-    "_name": "_2c552ea9"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\home\\\\auto-part.vue",
+    "chunkName": "pages/home/auto-part"
   },
   {
     "name": "home-electronic___en",
     "path": "/home/electronic",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/home/electronic.vue",
-    "chunkName": "pages/home/electronic",
-    "_name": "_6ea1c058"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\home\\\\electronic.vue",
+    "chunkName": "pages/home/electronic"
   },
   {
     "name": "home-furniture___en",
     "path": "/home/furniture",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/home/furniture.vue",
-    "chunkName": "pages/home/furniture",
-    "_name": "_378970ca"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\home\\\\furniture.vue",
+    "chunkName": "pages/home/furniture"
   },
   {
     "name": "home-market-place___en",
     "path": "/home/market-place",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/home/market-place.vue",
-    "chunkName": "pages/home/market-place",
-    "_name": "_fdd3d6e4"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\home\\\\market-place.vue",
+    "chunkName": "pages/home/market-place"
   },
   {
     "name": "home-market-place-2___en",
     "path": "/home/market-place-2",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/home/market-place-2.vue",
-    "chunkName": "pages/home/market-place-2",
-    "_name": "_e35fcb9a"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\home\\\\market-place-2.vue",
+    "chunkName": "pages/home/market-place-2"
   },
   {
     "name": "home-market-place-3___en",
     "path": "/home/market-place-3",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/home/market-place-3.vue",
-    "chunkName": "pages/home/market-place-3",
-    "_name": "_e3439c98"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\home\\\\market-place-3.vue",
+    "chunkName": "pages/home/market-place-3"
   },
   {
     "name": "home-market-place-4___en",
     "path": "/home/market-place-4",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/home/market-place-4.vue",
-    "chunkName": "pages/home/market-place-4",
-    "_name": "_e3276d96"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\home\\\\market-place-4.vue",
+    "chunkName": "pages/home/market-place-4"
   },
   {
     "name": "home-organic___en",
     "path": "/home/organic",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/home/organic.vue",
-    "chunkName": "pages/home/organic",
-    "_name": "_3107b97a"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\home\\\\organic.vue",
+    "chunkName": "pages/home/organic"
   },
   {
     "name": "home-technology___en",
     "path": "/home/technology",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/home/technology.vue",
-    "chunkName": "pages/home/technology",
-    "_name": "_4693eb38"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\home\\\\technology.vue",
+    "chunkName": "pages/home/technology"
   },
   {
     "name": "page-about-us___en",
     "path": "/page/about-us",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/page/about-us.vue",
-    "chunkName": "pages/page/about-us",
-    "_name": "_74e2ccf4"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\page\\\\about-us.vue",
+    "chunkName": "pages/page/about-us"
   },
   {
     "name": "page-blank___en",
     "path": "/page/blank",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/page/blank.vue",
-    "chunkName": "pages/page/blank",
-    "_name": "_d7a44a48"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\page\\\\blank.vue",
+    "chunkName": "pages/page/blank"
   },
   {
     "name": "page-contact-us___en",
     "path": "/page/contact-us",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/page/contact-us.vue",
-    "chunkName": "pages/page/contact-us",
-    "_name": "_c1c14cda"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\page\\\\contact-us.vue",
+    "chunkName": "pages/page/contact-us"
   },
   {
     "name": "page-faqs___en",
     "path": "/page/faqs",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/page/faqs.vue",
-    "chunkName": "pages/page/faqs",
-    "_name": "_611af545"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\page\\\\faqs.vue",
+    "chunkName": "pages/page/faqs"
   },
   {
     "name": "page-page-404___en",
     "path": "/page/page-404",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/page/page-404.vue",
-    "chunkName": "pages/page/page-404",
-    "_name": "_31bbc0bc"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\page\\\\page-404.vue",
+    "chunkName": "pages/page/page-404"
   },
   {
     "name": "post-default___en",
     "path": "/post/default",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/post/default.vue",
-    "chunkName": "pages/post/default",
-    "_name": "_4f7209da"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\post\\\\default.vue",
+    "chunkName": "pages/post/default"
   },
   {
     "name": "post-detail-2___en",
     "path": "/post/detail-2",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/post/detail-2.vue",
-    "chunkName": "pages/post/detail-2",
-    "_name": "_b9964826"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\post\\\\detail-2.vue",
+    "chunkName": "pages/post/detail-2"
   },
   {
     "name": "post-detail-3___en",
     "path": "/post/detail-3",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/post/detail-3.vue",
-    "chunkName": "pages/post/detail-3",
-    "_name": "_b97a1924"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\post\\\\detail-3.vue",
+    "chunkName": "pages/post/detail-3"
   },
   {
     "name": "post-detail-4___en",
     "path": "/post/detail-4",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/post/detail-4.vue",
-    "chunkName": "pages/post/detail-4",
-    "_name": "_b95dea22"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\post\\\\detail-4.vue",
+    "chunkName": "pages/post/detail-4"
   },
   {
     "name": "product-affiliate___en",
     "path": "/product/affiliate",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/product/affiliate.vue",
-    "chunkName": "pages/product/affiliate",
-    "_name": "_afcee456"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\product\\\\affiliate.vue",
+    "chunkName": "pages/product/affiliate"
   },
   {
     "name": "product-boxed___en",
     "path": "/product/boxed",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/product/boxed.vue",
-    "chunkName": "pages/product/boxed",
-    "_name": "_95f8e49c"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\product\\\\boxed.vue",
+    "chunkName": "pages/product/boxed"
   },
   {
     "name": "product-countdown___en",
     "path": "/product/countdown",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/product/countdown.vue",
-    "chunkName": "pages/product/countdown",
-    "_name": "_63b5668e"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\product\\\\countdown.vue",
+    "chunkName": "pages/product/countdown"
   },
   {
     "name": "product-extended___en",
     "path": "/product/extended",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/product/extended.vue",
-    "chunkName": "pages/product/extended",
-    "_name": "_63d2c8e1"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\product\\\\extended.vue",
+    "chunkName": "pages/product/extended"
   },
   {
     "name": "product-full-content___en",
     "path": "/product/full-content",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/product/full-content.vue",
-    "chunkName": "pages/product/full-content",
-    "_name": "_2a037de3"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\product\\\\full-content.vue",
+    "chunkName": "pages/product/full-content"
   },
   {
     "name": "product-groupped___en",
     "path": "/product/groupped",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/product/groupped.vue",
-    "chunkName": "pages/product/groupped",
-    "_name": "_81828350"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\product\\\\groupped.vue",
+    "chunkName": "pages/product/groupped"
   },
   {
     "name": "product-on-sale___en",
     "path": "/product/on-sale",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/product/on-sale.vue",
-    "chunkName": "pages/product/on-sale",
-    "_name": "_25f8b7fd"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\product\\\\on-sale.vue",
+    "chunkName": "pages/product/on-sale"
   },
   {
     "name": "product-out-of-stock___en",
     "path": "/product/out-of-stock",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/product/out-of-stock.vue",
-    "chunkName": "pages/product/out-of-stock",
-    "_name": "_176fe7e7"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\product\\\\out-of-stock.vue",
+    "chunkName": "pages/product/out-of-stock"
   },
   {
     "name": "product-sidebar___en",
     "path": "/product/sidebar",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/product/sidebar.vue",
-    "chunkName": "pages/product/sidebar",
-    "_name": "_0357d064"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\product\\\\sidebar.vue",
+    "chunkName": "pages/product/sidebar"
   },
   {
     "name": "shop-shop-carousel___en",
     "path": "/shop/shop-carousel",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/shop/shop-carousel.vue",
-    "chunkName": "pages/shop/shop-carousel",
-    "_name": "_759e29f4"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\shop\\\\shop-carousel.vue",
+    "chunkName": "pages/shop/shop-carousel"
   },
   {
     "name": "shop-shop-categories___en",
     "path": "/shop/shop-categories",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/shop/shop-categories.vue",
-    "chunkName": "pages/shop/shop-categories",
-    "_name": "_5964f37c"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\shop\\\\shop-categories.vue",
+    "chunkName": "pages/shop/shop-categories"
   },
   {
     "name": "shop-shop-fullwidth___en",
     "path": "/shop/shop-fullwidth",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/shop/shop-fullwidth.vue",
-    "chunkName": "pages/shop/shop-fullwidth",
-    "_name": "_3ca7933e"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\shop\\\\shop-fullwidth.vue",
+    "chunkName": "pages/shop/shop-fullwidth"
   },
   {
     "name": "shop-shop-sidebar___en",
     "path": "/shop/shop-sidebar",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/shop/shop-sidebar.vue",
-    "chunkName": "pages/shop/shop-sidebar",
-    "_name": "_2afbe1b4"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\shop\\\\shop-sidebar.vue",
+    "chunkName": "pages/shop/shop-sidebar"
   },
   {
     "name": "shop-shop-sidebar-without-banner___en",
     "path": "/shop/shop-sidebar-without-banner",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/shop/shop-sidebar-without-banner.vue",
-    "chunkName": "pages/shop/shop-sidebar-without-banner",
-    "_name": "_669682f0"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\shop\\\\shop-sidebar-without-banner.vue",
+    "chunkName": "pages/shop/shop-sidebar-without-banner"
   },
   {
     "name": "vendor-become-a-vendor___en",
     "path": "/vendor/become-a-vendor",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/become-a-vendor.vue",
-    "chunkName": "pages/vendor/become-a-vendor",
-    "_name": "_b467278a"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\become-a-vendor.vue",
+    "chunkName": "pages/vendor/become-a-vendor"
   },
   {
     "name": "vendor-product-crud___en",
     "path": "/vendor/product-crud",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/product-crud.vue",
-    "chunkName": "pages/vendor/product-crud",
-    "_name": "_2d29352a"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\product-crud.vue",
+    "chunkName": "pages/vendor/product-crud"
   },
   {
     "name": "vendor-store-list___en",
     "path": "/vendor/store-list",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/store-list.vue",
-    "chunkName": "pages/vendor/store-list",
-    "_name": "_00ca40d9"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\store-list.vue",
+    "chunkName": "pages/vendor/store-list"
   },
   {
     "name": "vendor-store-list-2___en",
     "path": "/vendor/store-list-2",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/store-list-2.vue",
-    "chunkName": "pages/vendor/store-list-2",
-    "_name": "_1cab4084"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\store-list-2.vue",
+    "chunkName": "pages/vendor/store-list-2"
   },
   {
     "name": "vendor-vendor-register___en",
     "path": "/vendor/vendor-register",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/vendor-register.vue",
-    "chunkName": "pages/vendor/vendor-register",
-    "_name": "_036e7149"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\vendor-register.vue",
+    "chunkName": "pages/vendor/vendor-register"
   },
   {
     "name": "vendor-vendor-store___en",
     "path": "/vendor/vendor-store",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/vendor-store.vue",
-    "chunkName": "pages/vendor/vendor-store",
-    "_name": "_5899d42b"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\vendor-store.vue",
+    "chunkName": "pages/vendor/vendor-store"
   },
   {
     "name": "account-addresses___fr",
     "path": "/fr/account/addresses",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/account/addresses.vue",
-    "chunkName": "pages/account/addresses",
-    "_name": "_5435eb30"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\account\\\\addresses.vue",
+    "chunkName": "pages/account/addresses"
   },
   {
     "name": "account-checkout___fr",
     "path": "/fr/account/checkout",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/account/checkout.vue",
-    "chunkName": "pages/account/checkout",
-    "_name": "_352a11f0"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\account\\\\checkout.vue",
+    "chunkName": "pages/account/checkout"
   },
   {
     "name": "account-compare___fr",
     "path": "/fr/account/compare",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/account/compare.vue",
-    "chunkName": "pages/account/compare",
-    "_name": "_0f8ce5ab"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\account\\\\compare.vue",
+    "chunkName": "pages/account/compare"
   },
   {
     "name": "account-edit-address___fr",
     "path": "/fr/account/edit-address",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/account/edit-address.vue",
-    "chunkName": "pages/account/edit-address",
-    "_name": "_4bcd7d4a"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\account\\\\edit-address.vue",
+    "chunkName": "pages/account/edit-address"
   },
   {
     "name": "account-invoice-detail___fr",
     "path": "/fr/account/invoice-detail",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/account/invoice-detail.vue",
-    "chunkName": "pages/account/invoice-detail",
-    "_name": "_3416249b"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\account\\\\invoice-detail.vue",
+    "chunkName": "pages/account/invoice-detail"
   },
   {
     "name": "account-invoices___fr",
     "path": "/fr/account/invoices",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/account/invoices.vue",
-    "chunkName": "pages/account/invoices",
-    "_name": "_b245d0e0"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\account\\\\invoices.vue",
+    "chunkName": "pages/account/invoices"
   },
   {
     "name": "account-login___fr",
     "path": "/fr/account/login",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/account/login.vue",
-    "chunkName": "pages/account/login",
-    "_name": "_35b1eca2"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\account\\\\login.vue",
+    "chunkName": "pages/account/login"
   },
   {
     "name": "account-my-orders___fr",
     "path": "/fr/account/my-orders",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/account/my-orders.vue",
-    "chunkName": "pages/account/my-orders",
-    "_name": "_6e7cf2ec"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\account\\\\my-orders.vue",
+    "chunkName": "pages/account/my-orders"
   },
   {
     "name": "account-notifications___fr",
     "path": "/fr/account/notifications",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/account/notifications.vue",
-    "chunkName": "pages/account/notifications",
-    "_name": "_227a6ca4"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\account\\\\notifications.vue",
+    "chunkName": "pages/account/notifications"
   },
   {
     "name": "account-payment___fr",
     "path": "/fr/account/payment",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/account/payment.vue",
-    "chunkName": "pages/account/payment",
-    "_name": "_675f3b68"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\account\\\\payment.vue",
+    "chunkName": "pages/account/payment"
   },
   {
     "name": "account-recent-viewed-product___fr",
     "path": "/fr/account/recent-viewed-product",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/account/recent-viewed-product.vue",
-    "chunkName": "pages/account/recent-viewed-product",
-    "_name": "_d2b15ac4"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\account\\\\recent-viewed-product.vue",
+    "chunkName": "pages/account/recent-viewed-product"
   },
   {
     "name": "account-register___fr",
     "path": "/fr/account/register",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/account/register.vue",
-    "chunkName": "pages/account/register",
-    "_name": "_7830fccd"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\account\\\\register.vue",
+    "chunkName": "pages/account/register"
   },
   {
     "name": "account-shipping___fr",
     "path": "/fr/account/shipping",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/account/shipping.vue",
-    "chunkName": "pages/account/shipping",
-    "_name": "_7389a350"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\account\\\\shipping.vue",
+    "chunkName": "pages/account/shipping"
   },
   {
     "name": "account-shopping-cart___fr",
     "path": "/fr/account/shopping-cart",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/account/shopping-cart.vue",
-    "chunkName": "pages/account/shopping-cart",
-    "_name": "_70dd0aaa"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\account\\\\shopping-cart.vue",
+    "chunkName": "pages/account/shopping-cart"
   },
   {
     "name": "account-user-information___fr",
     "path": "/fr/account/user-information",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/account/user-information.vue",
-    "chunkName": "pages/account/user-information",
-    "_name": "_10d59ad4"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\account\\\\user-information.vue",
+    "chunkName": "pages/account/user-information"
   },
   {
     "name": "account-wishlist___fr",
     "path": "/fr/account/wishlist",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/account/wishlist.vue",
-    "chunkName": "pages/account/wishlist",
-    "_name": "_6747ba22"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\account\\\\wishlist.vue",
+    "chunkName": "pages/account/wishlist"
   },
   {
     "name": "blog-blog-left-sidebar___fr",
     "path": "/fr/blog/blog-left-sidebar",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/blog/blog-left-sidebar.vue",
-    "chunkName": "pages/blog/blog-left-sidebar",
-    "_name": "_4cbf43bc"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\blog\\\\blog-left-sidebar.vue",
+    "chunkName": "pages/blog/blog-left-sidebar"
   },
   {
     "name": "blog-blog-list___fr",
     "path": "/fr/blog/blog-list",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/blog/blog-list.vue",
-    "chunkName": "pages/blog/blog-list",
-    "_name": "_3daa06c4"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\blog\\\\blog-list.vue",
+    "chunkName": "pages/blog/blog-list"
   },
   {
     "name": "blog-blog-right-sidebar___fr",
     "path": "/fr/blog/blog-right-sidebar",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/blog/blog-right-sidebar.vue",
-    "chunkName": "pages/blog/blog-right-sidebar",
-    "_name": "_4c37d216"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\blog\\\\blog-right-sidebar.vue",
+    "chunkName": "pages/blog/blog-right-sidebar"
   },
   {
     "name": "blog-blog-small-thumbnail___fr",
     "path": "/fr/blog/blog-small-thumbnail",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/blog/blog-small-thumbnail.vue",
-    "chunkName": "pages/blog/blog-small-thumbnail",
-    "_name": "_381033f0"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\blog\\\\blog-small-thumbnail.vue",
+    "chunkName": "pages/blog/blog-small-thumbnail"
   },
   {
     "name": "home-auto-part___fr",
     "path": "/fr/home/auto-part",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/home/auto-part.vue",
-    "chunkName": "pages/home/auto-part",
-    "_name": "_2c552ea9"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\home\\\\auto-part.vue",
+    "chunkName": "pages/home/auto-part"
   },
   {
     "name": "home-electronic___fr",
     "path": "/fr/home/electronic",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/home/electronic.vue",
-    "chunkName": "pages/home/electronic",
-    "_name": "_6ea1c058"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\home\\\\electronic.vue",
+    "chunkName": "pages/home/electronic"
   },
   {
     "name": "home-furniture___fr",
     "path": "/fr/home/furniture",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/home/furniture.vue",
-    "chunkName": "pages/home/furniture",
-    "_name": "_378970ca"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\home\\\\furniture.vue",
+    "chunkName": "pages/home/furniture"
   },
   {
     "name": "home-market-place___fr",
     "path": "/fr/home/market-place",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/home/market-place.vue",
-    "chunkName": "pages/home/market-place",
-    "_name": "_fdd3d6e4"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\home\\\\market-place.vue",
+    "chunkName": "pages/home/market-place"
   },
   {
     "name": "home-market-place-2___fr",
     "path": "/fr/home/market-place-2",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/home/market-place-2.vue",
-    "chunkName": "pages/home/market-place-2",
-    "_name": "_e35fcb9a"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\home\\\\market-place-2.vue",
+    "chunkName": "pages/home/market-place-2"
   },
   {
     "name": "home-market-place-3___fr",
     "path": "/fr/home/market-place-3",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/home/market-place-3.vue",
-    "chunkName": "pages/home/market-place-3",
-    "_name": "_e3439c98"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\home\\\\market-place-3.vue",
+    "chunkName": "pages/home/market-place-3"
   },
   {
     "name": "home-market-place-4___fr",
     "path": "/fr/home/market-place-4",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/home/market-place-4.vue",
-    "chunkName": "pages/home/market-place-4",
-    "_name": "_e3276d96"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\home\\\\market-place-4.vue",
+    "chunkName": "pages/home/market-place-4"
   },
   {
     "name": "home-organic___fr",
     "path": "/fr/home/organic",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/home/organic.vue",
-    "chunkName": "pages/home/organic",
-    "_name": "_3107b97a"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\home\\\\organic.vue",
+    "chunkName": "pages/home/organic"
   },
   {
     "name": "home-technology___fr",
     "path": "/fr/home/technology",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/home/technology.vue",
-    "chunkName": "pages/home/technology",
-    "_name": "_4693eb38"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\home\\\\technology.vue",
+    "chunkName": "pages/home/technology"
   },
   {
     "name": "page-about-us___fr",
     "path": "/fr/page/about-us",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/page/about-us.vue",
-    "chunkName": "pages/page/about-us",
-    "_name": "_74e2ccf4"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\page\\\\about-us.vue",
+    "chunkName": "pages/page/about-us"
   },
   {
     "name": "page-blank___fr",
     "path": "/fr/page/blank",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/page/blank.vue",
-    "chunkName": "pages/page/blank",
-    "_name": "_d7a44a48"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\page\\\\blank.vue",
+    "chunkName": "pages/page/blank"
   },
   {
     "name": "page-contact-us___fr",
     "path": "/fr/page/contact-us",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/page/contact-us.vue",
-    "chunkName": "pages/page/contact-us",
-    "_name": "_c1c14cda"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\page\\\\contact-us.vue",
+    "chunkName": "pages/page/contact-us"
   },
   {
     "name": "page-faqs___fr",
     "path": "/fr/page/faqs",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/page/faqs.vue",
-    "chunkName": "pages/page/faqs",
-    "_name": "_611af545"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\page\\\\faqs.vue",
+    "chunkName": "pages/page/faqs"
   },
   {
     "name": "page-page-404___fr",
     "path": "/fr/page/page-404",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/page/page-404.vue",
-    "chunkName": "pages/page/page-404",
-    "_name": "_31bbc0bc"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\page\\\\page-404.vue",
+    "chunkName": "pages/page/page-404"
   },
   {
     "name": "post-default___fr",
     "path": "/fr/post/default",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/post/default.vue",
-    "chunkName": "pages/post/default",
-    "_name": "_4f7209da"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\post\\\\default.vue",
+    "chunkName": "pages/post/default"
   },
   {
     "name": "post-detail-2___fr",
     "path": "/fr/post/detail-2",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/post/detail-2.vue",
-    "chunkName": "pages/post/detail-2",
-    "_name": "_b9964826"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\post\\\\detail-2.vue",
+    "chunkName": "pages/post/detail-2"
   },
   {
     "name": "post-detail-3___fr",
     "path": "/fr/post/detail-3",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/post/detail-3.vue",
-    "chunkName": "pages/post/detail-3",
-    "_name": "_b97a1924"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\post\\\\detail-3.vue",
+    "chunkName": "pages/post/detail-3"
   },
   {
     "name": "post-detail-4___fr",
     "path": "/fr/post/detail-4",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/post/detail-4.vue",
-    "chunkName": "pages/post/detail-4",
-    "_name": "_b95dea22"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\post\\\\detail-4.vue",
+    "chunkName": "pages/post/detail-4"
   },
   {
     "name": "product-affiliate___fr",
     "path": "/fr/product/affiliate",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/product/affiliate.vue",
-    "chunkName": "pages/product/affiliate",
-    "_name": "_afcee456"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\product\\\\affiliate.vue",
+    "chunkName": "pages/product/affiliate"
   },
   {
     "name": "product-boxed___fr",
     "path": "/fr/product/boxed",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/product/boxed.vue",
-    "chunkName": "pages/product/boxed",
-    "_name": "_95f8e49c"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\product\\\\boxed.vue",
+    "chunkName": "pages/product/boxed"
   },
   {
     "name": "product-countdown___fr",
     "path": "/fr/product/countdown",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/product/countdown.vue",
-    "chunkName": "pages/product/countdown",
-    "_name": "_63b5668e"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\product\\\\countdown.vue",
+    "chunkName": "pages/product/countdown"
   },
   {
     "name": "product-extended___fr",
     "path": "/fr/product/extended",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/product/extended.vue",
-    "chunkName": "pages/product/extended",
-    "_name": "_63d2c8e1"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\product\\\\extended.vue",
+    "chunkName": "pages/product/extended"
   },
   {
     "name": "product-full-content___fr",
     "path": "/fr/product/full-content",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/product/full-content.vue",
-    "chunkName": "pages/product/full-content",
-    "_name": "_2a037de3"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\product\\\\full-content.vue",
+    "chunkName": "pages/product/full-content"
   },
   {
     "name": "product-groupped___fr",
     "path": "/fr/product/groupped",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/product/groupped.vue",
-    "chunkName": "pages/product/groupped",
-    "_name": "_81828350"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\product\\\\groupped.vue",
+    "chunkName": "pages/product/groupped"
   },
   {
     "name": "product-on-sale___fr",
     "path": "/fr/product/on-sale",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/product/on-sale.vue",
-    "chunkName": "pages/product/on-sale",
-    "_name": "_25f8b7fd"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\product\\\\on-sale.vue",
+    "chunkName": "pages/product/on-sale"
   },
   {
     "name": "product-out-of-stock___fr",
     "path": "/fr/product/out-of-stock",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/product/out-of-stock.vue",
-    "chunkName": "pages/product/out-of-stock",
-    "_name": "_176fe7e7"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\product\\\\out-of-stock.vue",
+    "chunkName": "pages/product/out-of-stock"
   },
   {
     "name": "product-sidebar___fr",
     "path": "/fr/product/sidebar",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/product/sidebar.vue",
-    "chunkName": "pages/product/sidebar",
-    "_name": "_0357d064"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\product\\\\sidebar.vue",
+    "chunkName": "pages/product/sidebar"
   },
   {
     "name": "shop-shop-carousel___fr",
     "path": "/fr/shop/shop-carousel",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/shop/shop-carousel.vue",
-    "chunkName": "pages/shop/shop-carousel",
-    "_name": "_759e29f4"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\shop\\\\shop-carousel.vue",
+    "chunkName": "pages/shop/shop-carousel"
   },
   {
     "name": "shop-shop-categories___fr",
     "path": "/fr/shop/shop-categories",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/shop/shop-categories.vue",
-    "chunkName": "pages/shop/shop-categories",
-    "_name": "_5964f37c"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\shop\\\\shop-categories.vue",
+    "chunkName": "pages/shop/shop-categories"
   },
   {
     "name": "shop-shop-fullwidth___fr",
     "path": "/fr/shop/shop-fullwidth",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/shop/shop-fullwidth.vue",
-    "chunkName": "pages/shop/shop-fullwidth",
-    "_name": "_3ca7933e"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\shop\\\\shop-fullwidth.vue",
+    "chunkName": "pages/shop/shop-fullwidth"
   },
   {
     "name": "shop-shop-sidebar___fr",
     "path": "/fr/shop/shop-sidebar",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/shop/shop-sidebar.vue",
-    "chunkName": "pages/shop/shop-sidebar",
-    "_name": "_2afbe1b4"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\shop\\\\shop-sidebar.vue",
+    "chunkName": "pages/shop/shop-sidebar"
   },
   {
     "name": "shop-shop-sidebar-without-banner___fr",
     "path": "/fr/shop/shop-sidebar-without-banner",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/shop/shop-sidebar-without-banner.vue",
-    "chunkName": "pages/shop/shop-sidebar-without-banner",
-    "_name": "_669682f0"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\shop\\\\shop-sidebar-without-banner.vue",
+    "chunkName": "pages/shop/shop-sidebar-without-banner"
   },
   {
     "name": "vendor-become-a-vendor___fr",
     "path": "/fr/vendor/become-a-vendor",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/become-a-vendor.vue",
-    "chunkName": "pages/vendor/become-a-vendor",
-    "_name": "_b467278a"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\become-a-vendor.vue",
+    "chunkName": "pages/vendor/become-a-vendor"
   },
   {
     "name": "vendor-product-crud___fr",
     "path": "/fr/vendor/product-crud",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/product-crud.vue",
-    "chunkName": "pages/vendor/product-crud",
-    "_name": "_2d29352a"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\product-crud.vue",
+    "chunkName": "pages/vendor/product-crud"
   },
   {
     "name": "vendor-store-list___fr",
     "path": "/fr/vendor/store-list",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/store-list.vue",
-    "chunkName": "pages/vendor/store-list",
-    "_name": "_00ca40d9"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\store-list.vue",
+    "chunkName": "pages/vendor/store-list"
   },
   {
     "name": "vendor-store-list-2___fr",
     "path": "/fr/vendor/store-list-2",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/store-list-2.vue",
-    "chunkName": "pages/vendor/store-list-2",
-    "_name": "_1cab4084"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\store-list-2.vue",
+    "chunkName": "pages/vendor/store-list-2"
   },
   {
     "name": "vendor-vendor-register___fr",
     "path": "/fr/vendor/vendor-register",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/vendor-register.vue",
-    "chunkName": "pages/vendor/vendor-register",
-    "_name": "_036e7149"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\vendor-register.vue",
+    "chunkName": "pages/vendor/vendor-register"
   },
   {
     "name": "vendor-vendor-store___fr",
     "path": "/fr/vendor/vendor-store",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/vendor-store.vue",
-    "chunkName": "pages/vendor/vendor-store",
-    "_name": "_5899d42b"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\vendor-store.vue",
+    "chunkName": "pages/vendor/vendor-store"
   },
   {
     "name": "vendor-add-category___en",
     "path": "/vendor/add/category",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/add/category.vue",
-    "chunkName": "pages/vendor/add/category",
-    "_name": "_69c43abb"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\add\\\\category.vue",
+    "chunkName": "pages/vendor/add/category"
   },
   {
     "name": "vendor-add-description___en",
     "path": "/vendor/add/description",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/add/description.vue",
-    "chunkName": "pages/vendor/add/description",
-    "_name": "_a2aa1f62"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\add\\\\description.vue",
+    "chunkName": "pages/vendor/add/description"
   },
   {
     "name": "vendor-add-details___en",
     "path": "/vendor/add/details",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/add/details.vue",
-    "chunkName": "pages/vendor/add/details",
-    "_name": "_ed3e3dd6"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\add\\\\details.vue",
+    "chunkName": "pages/vendor/add/details"
   },
   {
     "name": "vendor-add-images___en",
     "path": "/vendor/add/images",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/add/images.vue",
-    "chunkName": "pages/vendor/add/images",
-    "_name": "_574a0f16"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\add\\\\images.vue",
+    "chunkName": "pages/vendor/add/images"
   },
   {
     "name": "vendor-add-title___en",
     "path": "/vendor/add/title",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/add/title.vue",
-    "chunkName": "pages/vendor/add/title",
-    "_name": "_676bae2a"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\add\\\\title.vue",
+    "chunkName": "pages/vendor/add/title"
   },
   {
     "name": "vendor-admin-metrics___en",
     "path": "/vendor/admin/metrics",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/admin/metrics.vue",
-    "chunkName": "pages/vendor/admin/metrics",
-    "_name": "_dce492f8"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\admin\\\\metrics.vue",
+    "chunkName": "pages/vendor/admin/metrics"
   },
   {
     "name": "vendor-admin-orders___en",
     "path": "/vendor/admin/orders",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/admin/orders.vue",
-    "chunkName": "pages/vendor/admin/orders",
-    "_name": "_1d4b0534"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\admin\\\\orders.vue",
+    "chunkName": "pages/vendor/admin/orders"
   },
   {
     "name": "vendor-admin-product-list___en",
     "path": "/vendor/admin/product-list",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/admin/product-list.vue",
-    "chunkName": "pages/vendor/admin/product-list",
-    "_name": "_3964476a"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\admin\\\\product-list.vue",
+    "chunkName": "pages/vendor/admin/product-list"
   },
   {
     "name": "vendor-admin-sales___en",
     "path": "/vendor/admin/sales",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/admin/sales.vue",
-    "chunkName": "pages/vendor/admin/sales",
-    "_name": "_1badeee6"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\admin\\\\sales.vue",
+    "chunkName": "pages/vendor/admin/sales"
   },
   {
     "name": "vendor-admin-shipments___en",
     "path": "/vendor/admin/shipments",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/admin/shipments/index.vue",
-    "chunkName": "pages/vendor/admin/shipments/index",
-    "_name": "_173c419d"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\admin\\\\shipments\\\\index.vue",
+    "chunkName": "pages/vendor/admin/shipments/index"
   },
   {
     "name": "vendor-add-category___fr",
     "path": "/fr/vendor/add/category",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/add/category.vue",
-    "chunkName": "pages/vendor/add/category",
-    "_name": "_69c43abb"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\add\\\\category.vue",
+    "chunkName": "pages/vendor/add/category"
   },
   {
     "name": "vendor-add-description___fr",
     "path": "/fr/vendor/add/description",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/add/description.vue",
-    "chunkName": "pages/vendor/add/description",
-    "_name": "_a2aa1f62"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\add\\\\description.vue",
+    "chunkName": "pages/vendor/add/description"
   },
   {
     "name": "vendor-add-details___fr",
     "path": "/fr/vendor/add/details",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/add/details.vue",
-    "chunkName": "pages/vendor/add/details",
-    "_name": "_ed3e3dd6"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\add\\\\details.vue",
+    "chunkName": "pages/vendor/add/details"
   },
   {
     "name": "vendor-add-images___fr",
     "path": "/fr/vendor/add/images",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/add/images.vue",
-    "chunkName": "pages/vendor/add/images",
-    "_name": "_574a0f16"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\add\\\\images.vue",
+    "chunkName": "pages/vendor/add/images"
   },
   {
     "name": "vendor-add-title___fr",
     "path": "/fr/vendor/add/title",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/add/title.vue",
-    "chunkName": "pages/vendor/add/title",
-    "_name": "_676bae2a"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\add\\\\title.vue",
+    "chunkName": "pages/vendor/add/title"
   },
   {
     "name": "vendor-admin-metrics___fr",
     "path": "/fr/vendor/admin/metrics",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/admin/metrics.vue",
-    "chunkName": "pages/vendor/admin/metrics",
-    "_name": "_dce492f8"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\admin\\\\metrics.vue",
+    "chunkName": "pages/vendor/admin/metrics"
   },
   {
     "name": "vendor-admin-orders___fr",
     "path": "/fr/vendor/admin/orders",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/admin/orders.vue",
-    "chunkName": "pages/vendor/admin/orders",
-    "_name": "_1d4b0534"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\admin\\\\orders.vue",
+    "chunkName": "pages/vendor/admin/orders"
   },
   {
     "name": "vendor-admin-product-list___fr",
     "path": "/fr/vendor/admin/product-list",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/admin/product-list.vue",
-    "chunkName": "pages/vendor/admin/product-list",
-    "_name": "_3964476a"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\admin\\\\product-list.vue",
+    "chunkName": "pages/vendor/admin/product-list"
   },
   {
     "name": "vendor-admin-sales___fr",
     "path": "/fr/vendor/admin/sales",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/admin/sales.vue",
-    "chunkName": "pages/vendor/admin/sales",
-    "_name": "_1badeee6"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\admin\\\\sales.vue",
+    "chunkName": "pages/vendor/admin/sales"
   },
   {
     "name": "vendor-admin-shipments___fr",
     "path": "/fr/vendor/admin/shipments",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/admin/shipments/index.vue",
-    "chunkName": "pages/vendor/admin/shipments/index",
-    "_name": "_173c419d"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\admin\\\\shipments\\\\index.vue",
+    "chunkName": "pages/vendor/admin/shipments/index"
   },
   {
     "name": "vendor-admin-general-id___fr",
     "path": "/fr/vendor/admin/general/:id?",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/admin/general/_id.vue",
-    "chunkName": "pages/vendor/admin/general/_id",
-    "_name": "_5db91558"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\admin\\\\general\\\\_id.vue",
+    "chunkName": "pages/vendor/admin/general/_id"
   },
   {
     "name": "vendor-admin-shipments-id___fr",
     "path": "/fr/vendor/admin/shipments/:id",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/admin/shipments/_id.vue",
-    "chunkName": "pages/vendor/admin/shipments/_id",
-    "_name": "_55380745"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\admin\\\\shipments\\\\_id.vue",
+    "chunkName": "pages/vendor/admin/shipments/_id"
   },
   {
     "name": "vendor-admin-id___fr",
     "path": "/fr/vendor/admin/:id?",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/admin/_id.vue",
-    "chunkName": "pages/vendor/admin/_id",
-    "_name": "_0249d07b"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\admin\\\\_id.vue",
+    "chunkName": "pages/vendor/admin/_id"
   },
   {
     "name": "vendor-update-id___fr",
     "path": "/fr/vendor/update/:id?",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/update/_id.vue",
-    "chunkName": "pages/vendor/update/_id",
-    "_name": "_a3548d7a"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\update\\\\_id.vue",
+    "chunkName": "pages/vendor/update/_id"
   },
   {
     "name": "vendor-admin-general-id___en",
     "path": "/vendor/admin/general/:id?",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/admin/general/_id.vue",
-    "chunkName": "pages/vendor/admin/general/_id",
-    "_name": "_5db91558"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\admin\\\\general\\\\_id.vue",
+    "chunkName": "pages/vendor/admin/general/_id"
   },
   {
     "name": "vendor-admin-shipments-id___en",
     "path": "/vendor/admin/shipments/:id",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/admin/shipments/_id.vue",
-    "chunkName": "pages/vendor/admin/shipments/_id",
-    "_name": "_55380745"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\admin\\\\shipments\\\\_id.vue",
+    "chunkName": "pages/vendor/admin/shipments/_id"
   },
   {
     "name": "post-id___fr",
     "path": "/fr/post/:id?",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/post/_id.vue",
-    "chunkName": "pages/post/_id",
-    "_name": "_69be2953"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\post\\\\_id.vue",
+    "chunkName": "pages/post/_id"
   },
   {
     "name": "product-id___fr",
     "path": "/fr/product/:id?",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/product/_id.vue",
-    "chunkName": "pages/product/_id",
-    "_name": "_469a8fc2"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\product\\\\_id.vue",
+    "chunkName": "pages/product/_id"
   },
   {
     "name": "vendor-id___fr",
     "path": "/fr/vendor/:id?",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/_id.vue",
-    "chunkName": "pages/vendor/_id",
-    "_name": "_5da7b1fb"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\_id.vue",
+    "chunkName": "pages/vendor/_id"
   },
   {
     "name": "vendor-admin-id___en",
     "path": "/vendor/admin/:id?",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/admin/_id.vue",
-    "chunkName": "pages/vendor/admin/_id",
-    "_name": "_0249d07b"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\admin\\\\_id.vue",
+    "chunkName": "pages/vendor/admin/_id"
   },
   {
     "name": "vendor-update-id___en",
     "path": "/vendor/update/:id?",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/update/_id.vue",
-    "chunkName": "pages/vendor/update/_id",
-    "_name": "_a3548d7a"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\update\\\\_id.vue",
+    "chunkName": "pages/vendor/update/_id"
   },
   {
     "name": "post-id___en",
     "path": "/post/:id?",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/post/_id.vue",
-    "chunkName": "pages/post/_id",
-    "_name": "_69be2953"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\post\\\\_id.vue",
+    "chunkName": "pages/post/_id"
   },
   {
     "name": "product-id___en",
     "path": "/product/:id?",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/product/_id.vue",
-    "chunkName": "pages/product/_id",
-    "_name": "_469a8fc2"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\product\\\\_id.vue",
+    "chunkName": "pages/product/_id"
   },
   {
     "name": "vendor-id___en",
     "path": "/vendor/:id?",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/vendor/_id.vue",
-    "chunkName": "pages/vendor/_id",
-    "_name": "_5da7b1fb"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\vendor\\\\_id.vue",
+    "chunkName": "pages/vendor/_id"
   },
   {
     "name": "index___en",
     "path": "/",
-    "component": "/home/facundo/Agilika/bootcamp-1/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_508bbbfa"
+    "component": "H:\\\\Proyectos\\\\bootcamp-agilika\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
   }
 ]

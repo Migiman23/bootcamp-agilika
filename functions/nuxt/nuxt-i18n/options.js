@@ -16,7 +16,6 @@ export const baseUrl = ''
 export const vuex = {"moduleName":"i18n","syncLocale":false,"syncMessages":false,"syncRouteParams":true}
 export const parsePages = true
 export const pages = {}
-export const skipSettingLocaleOnNavigate = false
 export const beforeLanguageSwitch = () => null
 export const onLanguageSwitched = () => null
 export const IS_UNIVERSAL_MODE = true

@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "marketplace-bootcamp-1"
+    "default": "bootcamp-market",
+    "bootcamp-market": "bootcamp-agilika"
   }
 }
